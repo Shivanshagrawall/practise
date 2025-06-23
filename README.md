@@ -1,2 +1,2 @@
 # practise
-This is a practise file
+This is a practise file only
